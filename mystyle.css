@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color:honeydew;
+}
+
+button{
+  padding:20px;
+  background-color:firebrick;
+  color:#ffffff;
+  border-radius: 10%;
+  border: gainsboro;
+}
