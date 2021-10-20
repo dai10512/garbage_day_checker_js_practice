@@ -5,7 +5,6 @@ alert("you can cheack today's date");
 
 
 function todaysdate() {
-  var today = new Date();
-  console.log(today);
-  alert(today);
+  let today = new Date();
+  document.getElementById("dateshow").innerHTML = today
 }
