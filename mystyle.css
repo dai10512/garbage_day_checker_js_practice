@@ -3,10 +3,26 @@ body{
   background-color:honeydew;
 }
 
+.inner{
+  margin:0 auto;
+  width:385px;
+}
+
 button{
-  padding:20px;
+  padding:20px 140px;
+  margin:0 auto;
   background-color:firebrick;
   color:#ffffff;
-  border-radius: 10%;
+  border-radius: 10px;
   border: gainsboro;
+}
+
+#dateshow,#trush{
+  margin:5px;
+  text-align: left;
+}
+
+#dateshow p,#trush p{
+  padding-top:10px;
+  padding-left:20px;;
 }
